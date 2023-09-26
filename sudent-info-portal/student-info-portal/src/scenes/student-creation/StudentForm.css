@@ -1,0 +1,18 @@
+.studentFormContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.studentFormContainer .ant-form {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 500px;
+}
+
+.studentFormContainer .ant-form-item-label {
+    width: 150px;
+    display: inline-block;
+}
